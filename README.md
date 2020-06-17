@@ -1,4 +1,4 @@
-# 프로젝트 놀먹자(Project_NMJ)
+# [프로젝트 놀먹자(Project_NMJ)](https://github.com/chriswpark00/Portfolio_Project_NMJ/issues/1#issue-640304379)
 
 ## 주제
   놀고 먹고 자는 매장 정보, 예약, 후기 등 다양한 컨텐츠 공유 플랫폼 제작
