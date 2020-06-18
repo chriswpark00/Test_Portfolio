@@ -10,16 +10,14 @@
   손쉽게 매장의 정보와 매장의 컨텐츠를 설정 할 수 있는 공간을 매장들에게 제공한다.
   
 ## 사용 기술
- Java, 
- Javascript, 
- Spring MVC, 
- Ajax, 
- API ([Kakao Map](https://apis.map.kakao.com/web), [Daum Postcode](http://postcode.map.daum.net/guide)) , 
- MariaDB, 
- MyBatis, 
- Github, 
- Security, 
- Bootstrap
+ - 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
+ - 웹 화면 구성: HTML, CSS, BootStrap, JavaScript, jQuery, API ([Kakao Map](https://apis.map.kakao.com/web), [Daum Postcode](http://postcode.map.daum.net/guide))
+ - 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
+ - DB 및 액션 처리: MariaDB, JDBC, MyBatis
+ - 개발 Tool: Eclipse, Visual Studio Code, 
+ 
+ 
+ 
  
 ## 역할
  
