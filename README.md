@@ -11,11 +11,12 @@
   
 ## 사용 기술
  - 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
- - 웹 화면 구성: HTML, CSS, BootStrap, JavaScript, jQuery, API ([Kakao Map](https://apis.map.kakao.com/web), [Daum Postcode](http://postcode.map.daum.net/guide))
+ - 웹 화면 구성: HTML, CSS, BootStrap, JavaScript, jQuery, API ([Kakao Map](https://apis.map.kakao.com/web), [Daum Postcode](http://postcode.map.daum.net/guide), JavaMail), CKEditor
  - 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
  - DB 및 액션 처리: MariaDB, JDBC, MyBatis
  - 개발 Tool: Eclipse, Visual Studio Code, 
- 
+ - 팀 개발 및 분산 버전 관리: GitHub
+ - 웹 프로젝트 프레임워크: Spring Framework
  
  
  
