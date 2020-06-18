@@ -38,4 +38,4 @@
 ## DB 구조
 
 ## 페이지 구성 및 화면 흐름도
-https://github.com/chriswpark00/Portfolio_Project_NMJ/issues/2#issue-640951489
+![페이지 구성](https://github.com/chriswpark00/Portfolio_Project_NMJ/issues/2#issue-640951489)
