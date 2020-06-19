@@ -1,16 +1,17 @@
 # [프로젝트 놀먹자(Project_NMJ)](https://github.com/chriswpark00/Portfolio_Project_NMJ/issues/1#issue-640304379)
-
+<br>
 # 프로젝트 기간
   2020.02.05 ~ 2020.03.10
+<br>
 ## 주제
   놀고 먹고 자는 매장 정보, 예약, 후기 등 다양한 컨텐츠 공유 플랫폼 제작
   
   A platform for leisure activities' whereabouts, reservation, and review forum.
-  
+ <br>
 ## 기획의도
   '시간을 때우는 사람들'의 고민 놀고 먹고 자는 매장들의 정보를 소비자들에게 제공한다.<br>
   손쉽게 매장의 정보와 매장의 컨텐츠를 설정 할 수 있는 공간을 매장들에게 제공한다.
-  
+<br> 
 ## 사용 기술
  - 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
  - 웹 화면 구성: HTML, CSS, BootStrap, JavaScript, jQuery, API ([Kakao Map](https://apis.map.kakao.com/web), [Daum Postcode](http://postcode.map.daum.net/guide), JavaMail), CKEditor
@@ -21,7 +22,7 @@
  - 웹 프로젝트 프레임워크: Spring Framework
  
  
- 
+<br>
 ## 역할
  
  - Model, View, Controller가 분리되어있는 Spring MVC2모델로 다양한 웹페이지 제작
@@ -36,9 +37,12 @@
     - 음식 메뉴 관리 추가/수정/삭제 페이지 제작
     - 각각의 알맞는 정규표현식으로 검증 (이메일, 전화번호, 가격, 사진 등)
  - Bootstrap html템플릿 활용하여 View페이지 제작
-
+ 
+<br>
 ## DB 구조
+![DB 구조](https://user-images.githubusercontent.com/58818578/85092892-b77a4880-b225-11ea-98de-bffe6de3168f.png)
 
+<br>
 ## 페이지 구성 및 화면 흐름도
 ![페이지 구성](https://user-images.githubusercontent.com/58818578/84986912-4a5da900-b17a-11ea-8daa-e8c10d81e811.png)
 
