@@ -1,5 +1,7 @@
 # [프로젝트 놀먹자(Project_NMJ)](https://github.com/chriswpark00/Portfolio_Project_NMJ/issues/1#issue-640304379)
 
+# 프로젝트 기간
+  2020.02.05 ~ 2020.03.10
 ## 주제
   놀고 먹고 자는 매장 정보, 예약, 후기 등 다양한 컨텐츠 공유 플랫폼 제작
   
@@ -14,7 +16,7 @@
  - 웹 화면 구성: HTML, CSS, BootStrap, JavaScript, jQuery, API ([Kakao Map](https://apis.map.kakao.com/web), [Daum Postcode](http://postcode.map.daum.net/guide), JavaMail), CKEditor
  - 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
  - DB 및 액션 처리: MariaDB, JDBC, MyBatis
- - 개발 Tool: Eclipse, Visual Studio Code, 
+ - 개발 Tool: Eclipse, Visual Studio Code, Apache Tomcat v8.5
  - 팀 개발 및 분산 버전 관리: GitHub
  - 웹 프로젝트 프레임워크: Spring Framework
  
@@ -24,7 +26,7 @@
  
  - Model, View, Controller가 분리되어있는 Spring MVC2모델로 다양한 웹페이지 제작
  - 데이터베이스 설계, 구축(Query작성) 및 시연용 데이터 추가
- - Kakao Map Api와 Ajax를 활용하여 현재 위치에서 반경 500m 내 매장 위치 표시 (메인 페이지)
+ - Kakao Map Api, Geolocation Ajax를 활용하여 현재 위치에서 반경 500m 내 매장 위치 표시 (메인 페이지)
  - Daum Postcode Api활용한 주소 및 경위도(xy좌표) 등록 (매장회원 가입 / 매장회원 정보 수정 페이지)
  - 매장회원이 직접 등록한 음식과 방 사진을 Ajax기술로 메뉴 펼치기/접기 와 방사진 보기/접기 구현 (매장 상세 정보 페이지)
  - 이미지파일 입출력 확장자 검증 후 DB저장(.jpg .jpeg .png .gif)
