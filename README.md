@@ -39,3 +39,6 @@
 
 ## 페이지 구성 및 화면 흐름도
 ![페이지 구성](https://user-images.githubusercontent.com/58818578/84986912-4a5da900-b17a-11ea-8daa-e8c10d81e811.png)
+
+일반회원 로그인
+![일반회원](https://user-images.githubusercontent.com/58818578/85091968-a7fa0000-b223-11ea-9e14-af9009a2a89c.png)
