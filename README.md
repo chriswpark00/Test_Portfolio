@@ -42,3 +42,9 @@
 
 일반회원 로그인
 ![일반회원](https://user-images.githubusercontent.com/58818578/85091968-a7fa0000-b223-11ea-9e14-af9009a2a89c.png)
+
+매장회원 로그인
+![매장회원](https://user-images.githubusercontent.com/58818578/85092102-f1e2e600-b223-11ea-8c90-a8dfe6ba9035.png)
+
+관리자 로그인
+![관리자](https://user-images.githubusercontent.com/58818578/85092096-eabbd800-b223-11ea-84b9-5ba8b55465b2.png)
