@@ -57,6 +57,6 @@
 ![관리자](https://user-images.githubusercontent.com/58818578/85092096-eabbd800-b223-11ea-84b9-5ba8b55465b2.png)
 
 ## 시연
-![내위치와 매장위치 시연영상](https://www.youtube.com/watch?v=rqmuGv5J_tY)
-![매장회원가입](https://www.youtube.com/watch?v=jxRgcopU3zM)
-![매장로그인](https://www.youtube.com/watch?v=t2rkUHg2Lp0)
+(https://www.youtube.com/watch?v=rqmuGv5J_tY)
+(https://www.youtube.com/watch?v=jxRgcopU3zM)
+(https://www.youtube.com/watch?v=t2rkUHg2Lp0)
